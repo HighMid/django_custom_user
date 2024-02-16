@@ -1,6 +1,6 @@
 ## django_custom_user Repo
 
-### LAB - Class 28 Project: django_custom_user
+### LAB - Class 29 Project: django_custom_user
 
 ### Author: DeAndre Ordonez
 
